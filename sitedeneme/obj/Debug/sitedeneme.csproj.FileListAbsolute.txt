@@ -1,0 +1,928 @@
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\ApplicationInsights.config
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\csc.exe
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\vbc.exe
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\VBCSCompiler.exe
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\sitedeneme.dll.config
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\sitedeneme.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\sitedeneme.pdb
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.Web.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.Web.xml
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\obj\Debug\sitedeneme.dll
+c:\users\alper.bal\documents\visual studio 2015\Projects\sitedeneme\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme6\sitedeneme\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme7\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme9\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme10_searchbaroncesi\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme11_searchbaroncesi\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme12_logindone\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme13\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme13\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedeneme14_sil yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme14_sil yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme15_users yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme16_users yetkilendirme yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme17- yetki alma yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme18 - register yapıldı - Kopya\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme19 - searchbar yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme20- searchbar ve login yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme21- ürün ekleme yapıldı eksik\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme22- ürün ekleme yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedeneme23- şans yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\sitedenemeENSON\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeENSON\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG1\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\obj\Debug\sitedeneme.csprojResolveAssemblyReference.cache
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı - Kopya\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\obj\Debug\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\obj\Debug\sitedeneme.csproj.AssemblyReference.cache
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\obj\Debug\sitedeneme.csproj.CoreCompileInputs.cache
+C:\Users\alper.bal\Desktop\e_commerce\webdenal2_draggingdone\sitedeneme\obj\Debug\sitedeneme.csproj.CopyComplete
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\ApplicationInsights.config
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\csc.exe
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\vbc.exe
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\sitedeneme.dll.config
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\sitedeneme.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\sitedeneme.pdb
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.Web.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.Web.xml
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\obj\Debug\sitedeneme.csproj.AssemblyReference.cache
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\obj\Debug\sitedeneme.csproj.CoreCompileInputs.cache
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\obj\Debug\sitedeneme.csproj.CopyComplete
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\obj\Debug\sitedeneme.dll
+C:\Users\alper.bal\Desktop\cv\e-ticaret sitesi\sitedeneme\obj\Debug\sitedeneme.pdb

@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\alper.bal\Desktop\sitedenemeDRAG yapıldı</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="addproduct.aspx">
+      <publishTime>05/30/2023 12:05:08</publishTime>
+    </File>
+    <File Include="admin.aspx">
+      <publishTime>05/25/2023 16:24:52</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>04/19/2023 09:02:17</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>04/19/2023 09:02:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/sitedeneme.dll">
+      <publishTime>05/30/2023 16:28:11</publishTime>
+    </File>
+    <File Include="DataSet1.xsc">
+      <publishTime>04/19/2023 12:14:17</publishTime>
+    </File>
+    <File Include="DataSet1.xss">
+      <publishTime>04/19/2023 12:14:17</publishTime>
+    </File>
+    <File Include="img/1.png">
+      <publishTime>05/25/2023 10:42:35</publishTime>
+    </File>
+    <File Include="img/2.png">
+      <publishTime>05/25/2023 10:42:35</publishTime>
+    </File>
+    <File Include="img/3.png">
+      <publishTime>05/25/2023 10:42:35</publishTime>
+    </File>
+    <File Include="img/33.jpg">
+      <publishTime>05/17/2023 15:38:34</publishTime>
+    </File>
+    <File Include="img/lenovo.jpg">
+      <publishTime>05/30/2023 12:06:55</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>05/25/2023 14:56:25</publishTime>
+    </File>
+    <File Include="img/logo2.png">
+      <publishTime>05/25/2023 16:24:07</publishTime>
+    </File>
+    <File Include="img/pc1.jpg">
+      <publishTime>04/19/2023 11:48:32</publishTime>
+    </File>
+    <File Include="img/pc2.jpg">
+      <publishTime>04/19/2023 11:50:19</publishTime>
+    </File>
+    <File Include="img/pc3.jpg">
+      <publishTime>04/19/2023 13:44:47</publishTime>
+    </File>
+    <File Include="img/ps1.jpg">
+      <publishTime>04/19/2023 14:26:08</publishTime>
+    </File>
+    <File Include="img/web.png">
+      <publishTime>04/19/2023 11:55:08</publishTime>
+    </File>
+    <File Include="img/webbb.png">
+      <publishTime>04/19/2023 17:43:18</publishTime>
+    </File>
+    <File Include="img/wp1.png">
+      <publishTime>05/24/2023 15:59:24</publishTime>
+    </File>
+    <File Include="img/wp2.png">
+      <publishTime>05/24/2023 14:42:00</publishTime>
+    </File>
+    <File Include="loginn.aspx">
+      <publishTime>05/25/2023 16:38:18</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/19/2023 09:02:17</publishTime>
+    </File>
+    <File Include="ProductDetails.aspx">
+      <publishTime>05/25/2023 16:21:16</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>05/18/2023 13:35:46</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>04/19/2023 09:02:17</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>04/19/2023 09:02:17</publishTime>
+    </File>
+    <File Include="users.aspx">
+      <publishTime>05/25/2023 16:30:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/30/2023 16:28:12</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>05/30/2023 16:16:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
